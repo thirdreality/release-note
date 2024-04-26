@@ -1,5 +1,10 @@
 Third Reality Smart Plug release note
 
+Device Models
+Smart Plug Gen1(type B, no power monitoring), Model 3RSP019BZ
+Smart Plug Gen2(type B, power monitoring), Model 3RSP02028BZ
+Smart Plug E2(type F, power monitoring), Model 3RSPE01044BZ
+
 version v1.00.74  2024.02.05
 Fix LED light status issue
 Optimize Zigbee signal distance
